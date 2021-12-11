@@ -1,6 +1,6 @@
 <!-- <a href="https://AK1.io" rel="akshay2211">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a> -->
-<h3>Hi! 👋🤓<br>I'm Habibur Rahman<br>Software Engineer at Daffodil Computers Limited</h3>
-<h6>I build <a href="https://HabiburRahman1.com/portfolio">websites</a>, create <a href="https://HabiburRahman1.com/blog">content</a>, design <a href="https://HabiburRahman1.com/portfolio">graphics</a>, <a href="https://HabiburRahman1.com/book-a-consultation">strategize</a> and sell <a href="https://HabiburRahman1.com/store">digital products</a>.</h6>
+<h3>Hi! 👋🤓<br>I'm Sohel Rana<br>Software Engineer at Daffodil Computers Limited</h3>
+<h6>I build <a href="https://Md-Sohel-Rana-Ovi.com/portfolio">websites</a>, create <a href="https://Md-Sohel-Rana-Ovi.com/blog">content</a>, design <a href="https://Md-Sohel-Rana-Ovi.com/portfolio">graphics</a>, <a href="https://Md-Sohel-Rana-Ovi.com/book-a-consultation">strategize</a> and sell <a href="https://Md-Sohel-Rana-Ovi.com/store">digital products</a>.</h6>
 
 <h3>Things I code with</h3>
 <p>
@@ -31,22 +31,22 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=HabiburRahman1&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Md-Sohel-Rana-Ovi&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabiburRahman1&layout=compact"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HabiburRahman1&show_icons=true&count_private=true&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=HabiburRahman1&date_format=M%20j%5B%2C%20Y%5D)]" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sohel-Rana-Ovi&layout=compact"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Md-Sohel-Rana-Ovi&show_icons=true&count_private=true&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Md-Sohel-Rana-Ovi&date_format=M%20j%5B%2C%20Y%5D)]" />
 </p>
 <br>
 
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/HabiburRahman1" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/habibur-rahman-61bb9a114" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@habib.usa2014" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/Md-Sohel-Rana-Ovi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/habibur-rahman-61bb9a114" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@habib.usa2014" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-[**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/HabiburRahman1/)<br/>
+[**You like what you see? Then nominate me for GitHub Stars!**](https://stars.github.com/Md-Sohel-Rana-Ovi/)<br/>
 
 
