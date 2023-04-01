@@ -31,7 +31,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Md-Sohel-Rana-Ovi&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Md-Sohel-Rana-Ovi&bg_color=ffffff&color=2d202c&line=71416e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
