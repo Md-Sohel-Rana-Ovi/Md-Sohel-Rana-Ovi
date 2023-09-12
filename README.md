@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there <a href="#"><img src="https://raw.githubusercontent.com/Md-Sohel-Rana-Ovi/Md-Sohel-Rana-Ovi/main/.github/images/hand_wave.gif" width="45px" height="45px"/></a>, I'm Sohel Rana Ovi
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+Developer;Python+Developer;Dot.NET+Developer;Tech+Enthusiast;Entrepreneur;Technopreneur"></img>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=%2338C2FF&size=35&center=true&vCenter=true&height=60&width=600&lines=Full+Stack+Developer;Odoo+Developer;Python+Developer;Entrepreneur"></img>
 </h1>
 
 <h3 align="center"> Software Engineer @ DCL | Odoo ERP Developer | Python | JavaScript  <br/>From Bangladesh 🇧🇩</h3>
@@ -46,14 +46,12 @@
 <p>
   <img width="30" height="30" src="https://code.visualstudio.com/favicon.ico"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-  <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
@@ -85,9 +83,9 @@
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#395](https://github.com/w3schools-test/w3schools-test.github.io/pull/395) in [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io)
-2. 🗣 Commented on [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
-3. 🗣 Commented on [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
-4. ❗️ Opened issue [#1](https://github.com/JeshadKhan/jeshadkhan/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/JeshadKhan/jeshadkhan)
+2. 🗣 Commented on [#1](https://github.com/Md-Sohel-Rana-Ovi/Md-Sohel-Rana-Ovi/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/Md-Sohel-Rana-Ovi/jeshadkhan)
+3. 🗣 Commented on [#1](https://github.com/Md-Sohel-Rana-Ovi/Md-Sohel-Rana-Ovi/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/Md-Sohel-Rana-Ovi/jeshadkhan)
+4. ❗️ Opened issue [#1](https://github.com/Md-Sohel-Rana-Ovi/Md-Sohel-Rana-Ovi/issues/1) in [JeshadKhan/jeshadkhan](https://github.com/Md-Sohel-Rana-Ovi/jeshadkhan)
 <!--END_SECTION:activity-->
 
 </details>
